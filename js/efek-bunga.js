@@ -1,7 +1,7 @@
 // Efek Taburan Bunga dari Atas ke Bawah
-// Emoji Bunga: 💗🌸🌺🌹🌻💐🍁🍀🌷
+// Emoji Bunga: 🌹🌸💐🌺🌻
 
-const flowers = ['💗', '🌸', '🌺', '🌹', '🌻', '💐', '🍁', '🍀', '🌷'];
+const flowers = ['🌹', '🌸', '💐', '🌺', '🌻'];
 
 class Flower {
   constructor(x, y) {
